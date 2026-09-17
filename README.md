@@ -1,3 +1,5 @@
+# Hi there, I'm Kibrom Abera 👋
+
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -6,14 +8,23 @@
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-## 📌 Featured Projects
+
+---
+
+### 📌 Featured Repositories
 
 | Repository | Tech Stack | Description |
 | :--- | :--- | :--- |
-| **[gym-management-system](#)** | `React` `Firestore` `Tailwind` | Lightweight web platform for managing gym operations, memberships, and workout tracking in real time. |
-| **[kafka-microservices-demo](#)** | `ASP.NET Core` `Kafka` `PostgreSQL` | Event-driven microservices architecture demonstrating distributed messaging and scalable database design. |
-| **[ai-applicant-evaluator](#)** | `Python` `Scikit-Learn` `FastAPI` | Recruitment evaluation model utilizing K-Nearest Neighbors (KNN) to analyze and score job applications. |
-## 📊 GitHub Stats
+| **[E_Commerce_Using_React_andAsp.net_Core](https://github.com/kibromAbera/E_Commerce_Using_React_andAsp.net_Core)** | `ASP.NET Core` `React.js` `C#` | E-commerce web application featuring a modern React frontend and scalable ASP.NET Core backend API. |
+| **[KendoUIASP.NET.MvcDemoforBignners](https://github.com/kibromAbera/KendoUIASP.NET.MvcDemoforBignners)** | `ASP.NET MVC` `Kendo UI` `C#` | Starter demo showcasing integration of Kendo UI controls with ASP.NET MVC architecture. |
+| **[814](https://github.com/kibromAbera/814)** | `C#` `.NET` | Core software engineering project repository. |
+| **[kibromAbera](https://github.com/kibromAbera/kibromAbera)** | `Markdown` | Configuration files and profile README for my GitHub landing page. |
 
-![Kibrom's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radial)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radial)
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kibromAbera&show_icons=true&theme=radial" alt="Kibrom's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kibromAbera&layout=compact&theme=radial" alt="Top Languages" width="48%" />
+</p>
